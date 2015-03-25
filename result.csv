@@ -1,0 +1,6 @@
+action,average_time,request_method,request_times,response_times,success_times,fail_times,uri
+home_btn,0.0038870000000002,GET,1,1,1,0,/user/home/
+home_btn,7.007863,GET,4,4,4,0,/api/mission/title/index/
+home_btn,6.148415,GET,4,4,4,0,/api/mission/title/index/
+home_btn,8.38219,GET,5,5,5,0,/api/mission/title/index/
+home_btn,5.51758,GET,4,4,4,0,/api/mission/title/index/
